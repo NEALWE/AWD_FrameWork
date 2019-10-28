@@ -11,6 +11,9 @@
 
 ![](https://github.com/NEALWE/AWD_FrameWork/blob/master/AWD.png)
 
+## 比赛小聊天室
+![](https://github.com/NEALWE/AWD_FrameWork/blob/master/比赛小聊天室.png)
+
 ## 运行效果
 
 [![asciicast](https://asciinema.org/a/bmbZaMMiiFQeEvV9ehN35VsFp.svg)](https://asciinema.org/a/bmbZaMMiiFQeEvV9ehN35VsFp)
