@@ -13,6 +13,11 @@
 ## 运行效果
 
 [![asciicast](https://asciinema.org/a/bmbZaMMiiFQeEvV9ehN35VsFp.svg)](https://asciinema.org/a/bmbZaMMiiFQeEvV9ehN35VsFp)
+
 由于是大二初开发的，代码可读性很低且使用的Python2.7，我会尽快修改为python3.6，并尽量使代码模块化，增加可读性
+
+---
+
+**对不住大家，本人要准备公考了，暂时没有时间修改，还望见谅。有兴趣一起研究的师傅们可以加我微信：NEALWE**
 
 
